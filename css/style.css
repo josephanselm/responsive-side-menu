@@ -289,3 +289,18 @@ nav {
     font-size: 1em;
   }
 }
+@media(max-width: 768px){
+  #logo img{
+    width: 50%;
+
+  }
+  p{
+    font-size: 1em;
+  }
+  #intro h3{
+    font-size: 2em;
+  }
+  #intro2 p{
+  font-size: 1.5em;
+}
+}
